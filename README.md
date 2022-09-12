@@ -1,5 +1,5 @@
 # Part 1 of project admin-account
-Front end admin account for a e commerce web application.
+Front end admin account for a e-commerce web application.
 
 ## run npm start port running on localhost:3000
 
